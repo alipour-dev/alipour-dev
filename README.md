@@ -13,3 +13,9 @@ Python developer focused on web development with Django, with a long-term goal i
 🚀 My Path
 
 Python → Django → Machine Learning → AI
+
+
+📫 Contact Me
+- Email: abolfazlalipour751@gmail.com
+- Telegram: [@alipour138330](https://t.me/alipour138330)
+- GitHub: [alipour-dev](https://github.com/alipour-dev)
