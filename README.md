@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi! I'm Abolfazl Alipour
 
-<!--
-**alipour-dev/alipour-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on web development with Django, with a long-term goal in the field of Artificial Intelligence.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠 Skills
+
+- Languages: Python  
+- Currently learning: Django, REST API, Machine Learning  
+- Tools: Git & GitHub, VS Code
+
+
+🚀 My Path
+
+Python → Django → Machine Learning → AI
